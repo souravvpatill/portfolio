@@ -45,10 +45,10 @@ const PROJECTS = [
     sourceUrl: '#',
   },
   {
-    title: 'Leaderboard App',
-    description: 'A scores submission and display application using the external Leaderboard API and vanilla JavaScript for a clean experience.',
-    demoUrl: '#',
-    sourceUrl: '#',
+    title: 'Appointment Scheduler',
+    description: 'A dynamic, component-based user interface that enables patients to select dates, view real-time availability, and submit booking forms.',
+    demoUrl: 'https://drjdpaedia.com/',
+    sourceUrl: 'https://github.com/souravvpatill/JDweb',
   },
   {
     title: 'Movie Metro',
