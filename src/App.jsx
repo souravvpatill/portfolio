@@ -759,7 +759,7 @@ const AboutSection = () => (
         </AnimateOnScroll>
         <AnimateOnScroll delay={200} effect="fade-in-up">
             <p className="text-lg text-gray-700 max-w-3xl mb-12">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis sapiente ipsum dolorum dicta eaque cumque inventore molestias, beatae ea quaerat alias accusamus voluptas autem! Alias odit voluptates in totam vitae.
+            I work across several domains, including full-stack web development, AI-powered applications, and user-centric digital tools. My projects often blend clean interfaces with strong backend systems, integrating features like automation, recognition models, real-time data handling, and secure user workflows. I enjoy building solutions that are practical, efficient, and meaningful in real-world use.
             </p>
         </AnimateOnScroll>
         
@@ -773,7 +773,7 @@ const AboutSection = () => (
       <AnimateOnScroll delay={0} effect="fade-in-up">
         <div className="text-center mt-12">
             <a 
-            href="/path/to/my_resume.pdf" 
+            href="https://pdflink.to/ff3cb534/" 
             download 
             data-cursor-interactive // Added for custom cursor interaction
             // Dark to Light Inversion
