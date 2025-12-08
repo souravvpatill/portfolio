@@ -558,7 +558,8 @@ const HeroSection = () => {
                     
                         <AnimateOnScroll delay={400} effect="fade-in-left">
                             <p className="text-lg text-gray-700 max-w-sm pt-4">
-                                Lorem ipsum dolor sit amet. consectetur adipisicing elit. Laboriosam, consectetur deleniti, voluptas.
+                                I build modern, responsive websites and digital interfaces.
+                                Passionate about clean design, smooth interactions, and bringing ideas to life on the web.
                             </p>
                         </AnimateOnScroll>
                     </div>
