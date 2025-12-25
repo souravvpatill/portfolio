@@ -39,10 +39,10 @@ const USER_DEFINED_SKILLS = [
 
 const PROJECTS = [
   {
-    title: 'KomiKult',
-    description: 'A comic book archive application featuring fast search and dynamic filtering, built with Next.js and GraphQL.',
-    demoUrl: '#',
-    sourceUrl: '#',
+    title: 'JustDIV',
+    description: 'Just Divide is an addictive math puzzle game where strategy meets arithmetic. Drag, drop, and divide tiles to keep the grid clear and beat your high score!',
+    demoUrl: 'https://justdiv.vercel.app/#__rq_marker=https://justdiv.vercel.app/',
+    sourceUrl: 'https://github.com/souravvpatill/justDivide',
   },
   {
     title: 'Appointment Scheduler',
