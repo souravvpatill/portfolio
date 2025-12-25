@@ -40,7 +40,7 @@ const USER_DEFINED_SKILLS = [
 const PROJECTS = [
   {
     title: 'JustDIV',
-    description: 'Just Divide is an addictive math puzzle game where strategy meets arithmetic. Drag, drop, and divide tiles to keep the grid clear and beat your high score!',
+    description: 'Just Div is a responsive, grid-based math puzzle game built with JavaScript and the Phaser 3 framework. The goal is to keep the board clear by merging and dividing number tiles while managing your resources.',
     demoUrl: 'https://justdiv.vercel.app/#__rq_marker=https://justdiv.vercel.app/',
     sourceUrl: 'https://github.com/souravvpatill/justDivide',
   },
