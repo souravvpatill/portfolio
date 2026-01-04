@@ -51,15 +51,15 @@ const PROJECTS = [
     sourceUrl: 'https://github.com/souravvpatill/JDweb',
   },
   {
-    title: 'Movie Metro',
-    description: 'An interactive movie database browser that uses the TMDB API to display trends, ratings, and detailed film information.',
-    demoUrl: '#',
+    title: 'Real Estate Demo',
+    description: 'A demo for Real Estate Webpage ',
+    demoUrl: 'https://real-estate-demo-one-coral.vercel.app/',
     sourceUrl: '#',
   },
   {
-    title: 'Nyeusi Fest Site',
-    description: 'A responsive event website for a music and tech festival, designed with pure HTML/CSS and mobile-first principles.',
-    demoUrl: '#',
+    title: 'Interior Designer Demo',
+    description: 'A demo for Interior Designer Webpage ',
+    demoUrl: 'https://hs-interior-demo.vercel.app/',
     sourceUrl: '#',
   },
 ];
